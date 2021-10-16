@@ -8,8 +8,8 @@ function preload() {
 
 function setup() {
   createCanvas(1000,500);
-  system = new system()
-  security = new security()
+  system = new System()
+  security = new Security()
 }
 
 function draw() {
